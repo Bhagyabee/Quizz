@@ -1,0 +1,53 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "options": ["Berlin", "Madrid", "Paris", "Rome"],
+      "answer": "Paris"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "answer": "Mars"
+    },
+    {
+      "question": "What is the largest mammal in the world?",
+      "options": ["Elephant", "Blue Whale", "Great White Shark", "Giraffe"],
+      "answer": "Blue Whale"
+    },
+    {
+      "question": "What is the boiling point of water?",
+      "options": ["90°C", "100°C", "110°C", "120°C"],
+      "answer": "100°C"
+    },
+    {
+      "question": "Who wrote 'Hamlet'?",
+      "options": ["Charles Dickens", "Mark Twain", "William Shakespeare", "Leo Tolstoy"],
+      "answer": "William Shakespeare"
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Au", "Ag", "Fe", "Pb"],
+      "answer": "Au"
+    },
+    {
+      "question": "What is the currency of Japan?",
+      "options": ["Yen", "Won", "Dollar", "Pound"],
+      "answer": "Yen"
+    },
+    {
+      "question": "What is the powerhouse of the cell?",
+      "options": ["Nucleus", "Ribosome", "Mitochondria", "Endoplasmic Reticulum"],
+      "answer": "Mitochondria"
+    },
+    {
+      "question": "How many continents are there?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "7"
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "answer": "Jupiter"
+    }
+  ]
+  
